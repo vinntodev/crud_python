@@ -14,10 +14,6 @@ Untuk menjalankan aplikasi ini, pastikan Anda telah menginstal **Python 3.x** da
 - `streamlit` - untuk antarmuka web.
 - `pandas` - untuk pengelolaan data tabel.
 
-Instal pustaka yang diperlukan dengan menjalankan perintah berikut di terminal:
-
-```bash
-
 ## Struktur Folder
 │
 ├── app.py                  # File utama aplikasi Streamlit
